@@ -1,0 +1,7 @@
+{
+  "name": "testdaily",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
